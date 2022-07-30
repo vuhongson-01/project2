@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@color/white"
+    tools:context=".fragment.NoteFragment">
+
+    <ImageButton
+        android:id="@+id/narrow_down_button_note"
+        android:layout_width="30dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:layout_centerVertical="true"
+        android:background="@drawable/bt_rounder_corners_right"
+        android:onClick="expandMenuPressed"
+        android:src="@drawable/ic_expand_button" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Note"/>
+</LinearLayout>

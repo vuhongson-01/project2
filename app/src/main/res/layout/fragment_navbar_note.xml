@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/fragment_navbar_note"
+    android:layout_height="100dp"
+    android:background="@color/gray">
+        <ImageButton
+            android:id="@+id/narrow_down_button"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:background="@drawable/bt_rounder_corners_right"
+            android:onClick="expandMenuPressed"
+            android:src="@drawable/ic_expand_button"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Note"/>
+</RelativeLayout>

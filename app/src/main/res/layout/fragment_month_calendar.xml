@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:isScrollContainer="true"
+    android:layout_height="match_parent"
+    tools:context=".fragment.MonthCalendarFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/back_to_current_month"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="TODAY"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:background="@drawable/today_btn"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp">
+            <CalendarView
+                android:id="@+id/month_calendar_type_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxDate="12/31/2024"
+                android:minDate="1/1/2020"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:padding="10dp"
+                android:background="@drawable/event_container">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Events of the day"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none">
+                    <LinearLayout
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:id="@+id/eventContainer"/>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

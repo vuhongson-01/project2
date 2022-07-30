@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable-v24/bt_rounder_corners_right.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/bt_filter.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/bt_rounder_corners_left.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.211" />
+        <entry key="app/src/main/res/drawable/calendar_nav_bar.xml" value="0.1655" />
+        <entry key="app/src/main/res/drawable/checked_background.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/color_picker_item.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item1.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item2.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item3.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item4.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item5.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/color_picker_item6.xml" value="0.1375" />
+        <entry key="app/src/main/res/drawable/custom_tab.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/day_of_week_boundary.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/event_bgr.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/event_container.xml" value="0.1955" />
+        <entry key="app/src/main/res/drawable/expand_button_icon.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1735" />
+        <entry key="app/src/main/res/drawable/ic_expand_button.xml" value="0.1735" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/ic_nextday.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_preday.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/input_bar.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/menu_bar.xml" value="0.134" />
+        <entry key="app/src/main/res/drawable/no_bgr.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/note_edit_text.xml" value="0.2145" />
+        <entry key="app/src/main/res/drawable/preday.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radio_background_selector.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/rounder_corners.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/set_event_time_bar.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/tab_indicator.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/today_btn.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/transparent.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/unchecked_background.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1537897325099859" />
+        <entry key="app/src/main/res/layout/event_view.xml" value="0.3202610722294561" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.13262939453125" />
+        <entry key="app/src/main/res/layout/fragment_calendar_month.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/fragment_calendar_week.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/fragment_clock.xml" value="0.23731884057971014" />
+        <entry key="app/src/main/res/layout/fragment_day_calendar.xml" value="0.24201507568359376" />
+        <entry key="app/src/main/res/layout/fragment_month_calendar.xml" value="0.262542724609375" />
+        <entry key="app/src/main/res/layout/fragment_navbar_calendar.xml" value="0.29124450683593756" />
+        <entry key="app/src/main/res/layout/fragment_navbar_clock.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/fragment_navbar_note.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/fragment_note.xml" value="0.23731884057971014" />
+        <entry key="app/src/main/res/layout/fragment_week_calendar.xml" value="0.32472991943359375" />
+        <entry key="app/src/main/res/layout/layout_header_navigation_bar.xml" value="0.21761016845703135" />
+        <entry key="app/src/main/res/layout/navbar_calendar_frame.xml" value="0.32971476679262907" />
+        <entry key="app/src/main/res/layout/navbar_clock_frame.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/layout/navbar_note_frame.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/layout/popup_cf.xml" value="0.2840317902741609" />
+        <entry key="app/src/main/res/layout/popup_create_new_event.xml" value="0.2497360229492187" />
+        <entry key="app/src/main/res/layout/popup_vew_event.xml" value="0.25820847850734907" />
+        <entry key="app/src/main/res/menu/calendar_menu.xml" value="0.234375" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

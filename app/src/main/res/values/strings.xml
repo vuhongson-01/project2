@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Calendar</string>
+    <string name="calendar_title_nav">My Calendar</string>
+    <string name="note_title_nav">My Note</string>
+    <string name="clock_title_nav">My Clock</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+    <string name="day">day</string>
+    <string name="month">month</string>
+    <string name="week">week</string>
+    <string name="day_view_fragment">Day View</string>
+    <string name="week_view_fragment">Week View</string>
+    <string name="month_view_fragment">Month View</string>
+</resources>
